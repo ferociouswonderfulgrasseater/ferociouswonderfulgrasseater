@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Octoring<br>
-<a href=https://octo-ring.com/p/ferociouswonderfulgrasseater/prev>previous</a><br>[next](https://octo-ring.com/p/ferociouswonderfulgrasseater/next)<br>[random](https://octo-ring.com/p/ferociouswonderfulgrasseater/random)
+|Octoring||||
+|---|---|---|---|
+||<a href=https://octo-ring.com/p/ferociouswonderfulgrasseater/prev>previous</a>|[next](https://octo-ring.com/p/ferociouswonderfulgrasseater/next)|[random](https://octo-ring.com/p/ferociouswonderfulgrasseater/random)|
 
 
