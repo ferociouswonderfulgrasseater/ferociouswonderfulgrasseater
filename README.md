@@ -16,34 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-.------------------------------------------------------------------------------.      The Octoring
-|                             .mmMMMMMMMMMMMMMmm.                              |
-|                         .mMMMMMMMMMMMMMMMMMMMMMMMm.                          |      
-|                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       |
-|                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     |
-|                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   |
-|                 MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  |
-|                MMMMMMMMM                           MMMMMMMMM                 |
-|               MMMMMMMMMM:                         :MMMMMMMMMM                |
-|              .MMMMMMMMMM                           MMMMMMMMMM.               |
-|              MMMMMMMMM"                             "MMMMMMMMM               |
-|              MMMMMMMMM                               MMMMMMMMM               |
-|              MMMMMMMMM                               MMMMMMMMM               |
-|              MMMMMMMMMM                             MMMMMMMMMM               |
-|              `MMMMMMMMMM                           MMMMMMMMMM`               |
-|               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
-|                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
-|                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
-|                  `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   |
-|                    `MMMMMm                 MMMMMMMMMMMM`                     |
-|                      `"MMMMMMMMM           MMMMMMMMM"`                       |
-|                         `"MMMMMM           MMMMMM"`                          |
-|                             `""M           M""`                              |
-'------------------------------------------------------------------------------'
-```
-[previous](https://octo-ring.com/p/ferociouswonderfulgrasseater/prev)
-[next](https://octo-ring.com/p/ferociouswonderfulgrasseater/next)
-[random](https://octo-ring.com/p/ferociouswonderfulgrasseater/random)
+
+Octoring
+<a href=https://octo-ring.com/p/ferociouswonderfulgrasseater/prev>previous</a><br>[next](https://octo-ring.com/p/ferociouswonderfulgrasseater/next)<br>[random](https://octo-ring.com/p/ferociouswonderfulgrasseater/random)
 
 
