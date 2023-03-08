@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![ferociouswonderfulgrasseater](https://github-readme-stats.vercel.app/api?username=ferociouswonderfulgrasseater)](https://github.com/ferociouswonderfulgrasseater/)
-
+[![octocat](https://github.githubassets.com/images/mona-loading-dark.gif)]
 
 <!--
 **ferociouswonderfulgrasseater/ferociouswonderfulgrasseater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
